@@ -1,6 +1,8 @@
 # Animal-Guessing-Game
 
-    This is an Animal Guessing Game created in C++. It uses a binary tree to store and build a database of questions and responses which are intended to lead the user to the animal they are currently thinking of. This program takes input from a .txt file in the same folder and creates a binary tree from it. The game will be based on the contents of this binary tree. If the program can't find your guess from the binary tree then you are able to add it by creating a new question and node. After you are done with the program, if you added any animals, you have the option to save the new binary tree into a designated output file.
+This is an Animal Guessing Game created in C++. 
+
+It uses a binary tree to store and build a database of questions and responses which are intended to lead the user to the animal they are currently thinking of. This program takes input from a .txt file in the same folder and creates a binary tree from it. The game will be based on the contents of this binary tree. If the program can't find your guess from the binary tree then you are able to add it by creating a new question and node. After you are done with the program, if you added any animals, you have the option to save the new binary tree into a designated output file.
 
 There are several .txt files attached to this project. These are the two that the code is already set to utilize.
 - animalGuessingOutputTree.txt  -   should always be blank before running the program
