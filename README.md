@@ -6,7 +6,7 @@ It uses a binary tree to store and build a database of questions and responses w
 
 There are several .txt files attached to this project. These are the two that the code is already set to utilize.
 - animalGuessingOutputTree.txt  -   should always be blank before running the program
-- animalGuessingInputTree.txt   -   this input file has a very large database of animals and guesses
+- animalGuessingInputTree.txt   -   this input file has a large database of animals and guesses
 
 I have attached one other optional input file. In order to use this file, you will have to change one line of code. There are instructions in the code header and the line you need to change is clearly marked.
 - animalGuessingShortTree.txt   -   this input file has a very small database of animals. Use this file if you want to build your own grand database
