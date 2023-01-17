@@ -1,0 +1,9 @@
+NEW NODE
+Is your animal a mammel?
+
+NEW NODE
+
+dog
+NEW NODE
+
+lizard
